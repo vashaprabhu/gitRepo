@@ -13,7 +13,12 @@ public class git_demo {
 		// finally resolved the error
 		// trying to commint from subBranch now
 		// now switched to sunBranch, its not subBranch, its sunBranch
+
 		// line num 16 from sunBranch, then meerge then need t resolve the conflict
+
+		//line num 16 in master
+
+
 	}
 
 }
