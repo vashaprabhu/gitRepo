@@ -10,6 +10,9 @@ public class git_demo {
 		//im in subBranch of master
 		// now i'm in subbranch 
 		// let me see how it works on pull, fetch, merge, commit and push --- line 12
+		// finally resolved the error
+		// trying to commint from subBranch now
+		// now switched to sunBranch, its not subBranch, its sunBranch
 
 	}
 
